@@ -25,7 +25,7 @@ Why you failed
 
 
 ## DQN网络结构定义
-```pyhton
+```python
 import numpy as np
 import tensorflow as tf
 import requests
