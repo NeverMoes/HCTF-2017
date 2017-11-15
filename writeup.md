@@ -1,5 +1,6 @@
 # WP
 ## 题目说明
+```
 Question
 Now you have a balance palo. You can move it left or right. Just play hundred time on it. 
 Description
@@ -14,6 +15,7 @@ Observation
 	4.	a value depend on Î¸
 Why you failed
 Î¸ or x > a certain value 
+```
 
 总而言之就是个玩棒子的游戏(雾。
 之所以出现在最后一道请去问关卡规则的设计者。
